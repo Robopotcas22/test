@@ -1,0 +1,75 @@
+.buton{
+    display:inline-flex;
+    color:orangered;
+    border-collapse: collapse;
+    
+   
+    
+}
+h1{
+    display: inline;
+    margin-left: 20px;
+
+}
+.conteiner{
+    display: inline-flex;
+}
+.link{
+    background-color: orange;
+    color: white;
+    padding: 5px 5px;
+    display: inline-flex;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 2px;
+    border-radius: 5px;
+}
+ 
+    
+.container2{
+    display: inline-flex; 
+    
+
+}
+header{
+  
+    height: 79.88px;
+   z-index: 3;
+   background: linear-gradient(to bottom, rgb(240, 164, 92), white);
+}
+
+
+@media (max-width: 1089px) {
+    .container2 {
+        
+        display: none;
+        
+    }
+}
+
+nav{
+   
+}
+
+
+body{
+     margin:0px;
+}
+.boton{
+    border-radius: 5px;
+    box-shadow: 5px;
+    background: linear-gradient(to top, rgb(228, 184, 104), rgb(197, 197, 197));
+    height: 25px;
+    border-color: orange;
+    
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+  
+}
